@@ -1,6 +1,6 @@
 ### Welcome to hear！ 👋
 
-### <h2> I'm Shivam</h2>
+### <h2> I'm Prochick</h2>
 
 
 <h3> 💻 About Me </h3>
@@ -27,7 +27,7 @@
 <h3>🤝🏻 Contact to me</h3>
 
 
-- 💻 &nbsp; 2916965025
+- 💻 &nbsp; 2916965025@qq.com 
 
 - 🌐 &nbsp; https://prochick.com
 
