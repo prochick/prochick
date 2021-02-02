@@ -19,6 +19,17 @@
 <h3>🛠 Tech Stack</h3>
 
 
-- 💻 &nbsp; Python | Java | C++ | C | MySQL
+- 💻 &nbsp; Python | Java | C# | C | MySQL
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+- 🌐 &nbsp; HTML | CSS | JavaScript | Vue
+
+
+<h3>🤝🏻 Contact to me</h3>
+
+
+- 💻 &nbsp; : 2916965025
+
+- 🌐 &nbsp; : https://prochick.com
+
+
+<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
