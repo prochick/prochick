@@ -14,6 +14,8 @@
 
 - ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
 
+- 💬 &nbsp; Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
+
 
 
 <h3>🛠 Tech Stack</h3>
@@ -37,14 +39,10 @@
     <td align="center">
       <img align="left" src="https://github-readme-stats.vercel.app/api?username=prochick&show_icons=true&theme=dracula" />
     </td>
-    <td align="center">
-      <a href="https://www.prochick.top">
-        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-        <br>
-        <strong>Visit my personal website!</strong>
-    </td>
   </tr>
 </table>
+
+<h3>🤝🏻 End</h3>
+
+:star: From [Prochick](https://github.com/prochick)
+Let's connect 👨‍💻 and forge the future together.😁✌
